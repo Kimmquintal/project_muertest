@@ -1,0 +1,1 @@
+export type Step = "loading" | "warning" | "quiz" | "exit";
